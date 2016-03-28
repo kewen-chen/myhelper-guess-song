@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyHelper</string>
+    <string name="youwin">您已击败</string>
+    <string name="answer_right">答案正确</string>
+    <string name="stage_index">1</string>
+    <string name="song_name">海贼王</string>
+    <string name="award">奖励</string>
+    <string name="multiply">x</string>
+    <string name="three">3</string>
+    <string name="title">提示</string>
+    <string name="coins">1000</string>
+    <string name="song">歌曲</string>
+    <string name="word">ke</string>
+</resources>
